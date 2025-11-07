@@ -1,4 +1,4 @@
-# confidential-transfer — Technical Documentation
+# Confidential-transfer
 
 This repository contains a minimal Rust client that demonstrates using the Token-2022 confidential transfer extensions on a local Solana cluster. The code exercises mint creation, associated token account (ATA) configuration for confidential transfers, deposits (normal -> confidential), applying pending balances, creating withdraw proofs, performing confidential withdraws, and cleaning up proof accounts.
 
